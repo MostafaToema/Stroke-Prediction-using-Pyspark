@@ -1,2 +1,2 @@
-# Stroke-Predection-using-Pyspark
+# Stroke-Prediction-using-Pyspark
 Data preparation, visualization, and feature engineering and classification of people have stroke using pyspark libraries.
